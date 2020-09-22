@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\bin\Debug\Lr5.exe.config
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\bin\Debug\Lr5.exe
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\bin\Debug\Lr5.pdb
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\obj\Debug\Lr5.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\obj\Debug\Lr5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\obj\Debug\Lr5.exe
+C:\Users\LENOVO\Desktop\sharp\Lr5\Lr5\obj\Debug\Lr5.pdb
