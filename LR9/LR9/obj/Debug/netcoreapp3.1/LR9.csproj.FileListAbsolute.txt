@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.exe
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.deps.json
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.runtimeconfig.json
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.dll
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\bin\Debug\netcoreapp3.1\LR9.pdb
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.dll
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.pdb
+C:\Users\LENOVO\Desktop\sharp\LR9\LR9\obj\Debug\netcoreapp3.1\LR9.genruntimeconfig.cache

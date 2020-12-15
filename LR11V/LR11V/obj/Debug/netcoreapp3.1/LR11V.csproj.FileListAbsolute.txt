@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.exe
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.deps.json
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.runtimeconfig.json
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.dll
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\bin\Debug\netcoreapp3.1\LR11V.pdb
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.dll
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.pdb
+C:\Users\LENOVO\Desktop\sharp\LR11V\LR11V\obj\Debug\netcoreapp3.1\LR11V.genruntimeconfig.cache

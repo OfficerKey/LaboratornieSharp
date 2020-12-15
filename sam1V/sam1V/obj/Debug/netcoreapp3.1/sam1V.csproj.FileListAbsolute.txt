@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.exe
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.deps.json
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.runtimeconfig.json
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.dll
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\bin\Debug\netcoreapp3.1\sam1V.pdb
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.dll
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.pdb
+C:\Users\LENOVO\Desktop\sharp\sam1V\sam1V\obj\Debug\netcoreapp3.1\sam1V.genruntimeconfig.cache

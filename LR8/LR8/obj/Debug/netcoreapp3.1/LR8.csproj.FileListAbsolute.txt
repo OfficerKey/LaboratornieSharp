@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.exe
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.deps.json
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.json
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.dll
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\bin\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.dll
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.pdb
+C:\Users\LENOVO\Desktop\sharp\LR8\LR8\obj\Debug\netcoreapp3.1\LR8.genruntimeconfig.cache
